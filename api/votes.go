@@ -1,4 +1,4 @@
-package thecatapi
+package api
 
 import (
 	"bytes"
